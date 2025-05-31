@@ -14,6 +14,8 @@ import Task8 from './Task8'
 
 import Task9 from './Task9'
 
+import Main from './components/Main'
+
 
 
 function App() {
@@ -44,8 +46,9 @@ function App() {
 
       {/* <Task8 obj={obj}/> */}
 
-      <Task9/>
+      {/* <Task9/> */}
 
+        <Main/>
     </div>
   );
 }
