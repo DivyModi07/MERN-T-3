@@ -16,6 +16,22 @@ import Task9 from './Task9'
 
 import Main from './components/Main'
 
+import Hook1 from './components/Hook'
+
+import US3 from './components/US3'
+
+import US4 from './components/US4'
+
+import US5 from './components/US5'
+
+import US6 from './components/US6'
+
+import US7 from './components/US7';
+import US8 from './components/US8';
+
+
+
+
 
 
 function App() {
@@ -48,7 +64,22 @@ function App() {
 
       {/* <Task9/> */}
 
-        <Main/>
+        {/* <Main/> */}
+
+        {/* <Hook1/> */}
+
+        {/* <US3/> */}
+
+        {/* <US4/> */}
+
+        {/* <US5/> */}
+
+        {/* <US6/> */}
+
+        {/* <US7/> */}
+
+        <US8/>
+
     </div>
   );
 }
