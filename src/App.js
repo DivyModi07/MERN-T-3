@@ -29,6 +29,18 @@ import US6 from './components/US6'
 import US7 from './components/US7';
 import US8 from './components/US8';
 
+import US10 from './components/US10';
+
+import US11 from './components/US11';
+
+import UR1 from './components/UR1';
+
+import UR2 from './components/UR2';
+
+
+
+
+
 
 
 
@@ -78,7 +90,15 @@ function App() {
 
         {/* <US7/> */}
 
-        <US8/>
+        {/* <US8/> */}
+
+        {/* <US10/> */}
+
+        {/* <US11/> */}
+
+        {/* <UR1/> */}
+
+        <UR2/>
 
     </div>
   );
