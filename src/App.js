@@ -37,6 +37,12 @@ import UR1 from './components/UR1';
 
 import UR2 from './components/UR2';
 
+import UR4 from './components/UR4';
+
+import Main1 from './components/Main1';
+
+
+
 
 
 
@@ -98,7 +104,11 @@ function App() {
 
         {/* <UR1/> */}
 
-        <UR2/>
+        {/* <UR2/> */}
+
+        {/* <UR4/> */}
+
+        <Main1/>
 
     </div>
   );
